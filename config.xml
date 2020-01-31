@@ -37,7 +37,7 @@
         <splash density="port-hdpi" src="res/screen/android/drawable-port-hdpi-screen.png" />
         <splash density="port-xhdpi" src="res/screen/android/drawable-port-xhdpi-screen.png" />
         <splash density="port-xxhdpi" src="res/screen/android/drawable-port-xxhdpi-screen.png" />
-        <splash density="port-xxxhdpi" src="es/screen/android/drawable-port-xxxhdpi-screen.png" />
+        <splash density="port-xxxhdpi" src="res/screen/android/drawable-port-xxxhdpi-screen.png" />
     </platform>
     <access origin="*" />
     <allow-intent href="http://*/*" />
